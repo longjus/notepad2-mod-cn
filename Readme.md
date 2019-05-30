@@ -4,6 +4,11 @@
 
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/1113.svg)](https://scan.coverity.com/projects/1113)
 
+## 和原版 Notepad2-mod 的区别
+* 中文菜单 (感谢CSDN上某位老兄提供的资源下载)
+* 窗口打开方式更换为普通,原方式为右边整版排列,在远程桌面中使用时很不方便.
+* 陆续会加入其它增加功能.
+
 ## Changes compared to the official Notepad2:
 
 * Code folding
