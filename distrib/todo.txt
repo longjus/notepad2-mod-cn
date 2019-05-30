@@ -1,0 +1,2 @@
+1) Use RegQueryStringValue to get the uninstall command for the other versions.
+   I need to trim down the command in order to use it.
